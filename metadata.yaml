@@ -1,0 +1,23 @@
+_repo: Project-Hi-Psi_59535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Riley, Frank
+    alias: Rhylick, Frank Wilbert
+    birthdate: 1915
+    deathdate: 1996
+    gutenberg_agent_id: '35656'
+    url: http://www.gutenberg.org/2009/agents/35656
+description: ''
+gutenberg_issued: '2019-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Project Hi-Psi
+url: http://www.gutenberg.org/ebooks/59535
